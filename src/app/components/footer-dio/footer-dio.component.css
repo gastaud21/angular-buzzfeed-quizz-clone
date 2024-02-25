@@ -1,0 +1,19 @@
+.container__footer > ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.container__footer > ul > li {
+  margin-right: 20px;
+  list-style: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container__footer > ul > li > a {
+  text-decoration: none;
+}
+
+.container__footer {
+  display: flex;
+  justify-content: center;
+}
